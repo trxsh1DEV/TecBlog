@@ -1,0 +1,28 @@
+#menu{
+    background-color: rgb(241, 190, 8);
+    text-align: center;
+    text-decoration-color:azure;
+    color: aliceblue;
+    background-size: 50px 50px;
+    align-items: center;
+    text-align: center;
+}
+a{
+    padding: 10px;
+    color: aliceblue;
+    text-decoration: none;
+    font-size: 21px;
+}
+#post{
+    padding: 0px 150px;
+}
+h4{
+    padding: 0%;
+    position: relative;
+}
+h2{
+    padding: 0%;
+    position: relative;
+    height: 4px;
+    font-style:inherit;
+}
